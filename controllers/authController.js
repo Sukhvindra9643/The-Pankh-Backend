@@ -6,7 +6,7 @@ const uuid = require("uuid");
 const cloudinary = require("cloudinary").v2;
 
 const registerUser = async (req, res) => {
-  console.log("req.body", req.body);
+//  console.log("req.body", req.body);
   try {
     const { username, password, phonenumber, role, file } = req.body;
     const hashedPassword = await bcrypt.hash(password, 10);
@@ -63,7 +63,7 @@ const loginUser = async (req, res) => {
     if (!isMatch) {
       return res.status(400).json({ message: "Invalid credentials" });
     }
-
+  //  console.log(user)
     const payload = {
       user: {
         id: user.id,
@@ -71,7 +71,7 @@ const loginUser = async (req, res) => {
         role: user.role,
       },
     };
-
+    //console.log("config",config.jwtSecret)
     jwt.sign(
       payload,
       config.jwtSecret,

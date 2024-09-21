@@ -1,4 +1,5 @@
 // config.js
+
 module.exports = {
   database: {
     user: process.env.user,

@@ -1,0 +1,6 @@
+2024-09-21T13:19:06.081Z - Request from IP: ::ffff:127.0.0.1, Browser: Chrome 128.0.0, OS: Linux 0.0.0, Device: Other 0.0.0
+2024-09-21T13:19:06.087Z - Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNTNhZWFjNTMtZTdhOC00YzYxLWI4NDYtNmU4MDc1YjNlYzM5IiwidXNlcm5hbWUiOiJwcmF0ZWVrIiwicm9sZSI6InN1cGVyYWRtaW4ifSwiaWF0IjoxNzI2OTI0NzQ0LCJleHAiOjE3MjY5MjgzNDR9.muyyge8bGSb00WRHINXHVxGliyf6VBZmzFmFm4c5XOE
+2024-09-21T13:19:06.089Z - Token is valid, user authorized.
+2024-09-21T13:25:14.749Z - Request from IP: ::ffff:127.0.0.1, Browser: Chrome 128.0.0, OS: Linux 0.0.0, Device: Other 0.0.0
+2024-09-21T13:25:14.750Z - Token From Cookie: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNTNhZWFjNTMtZTdhOC00YzYxLWI4NDYtNmU4MDc1YjNlYzM5IiwidXNlcm5hbWUiOiJwcmF0ZWVrIiwicm9sZSI6InN1cGVyYWRtaW4ifSwiaWF0IjoxNzI2OTI1MTExLCJleHAiOjE3MjY5Mjg3MTF9.LAmjgFU1ic6Cbi1CmqtB7ra6CQvn3kDxsBDddN3YBoQ
+2024-09-21T13:25:14.753Z - Token is valid, user authorized.
